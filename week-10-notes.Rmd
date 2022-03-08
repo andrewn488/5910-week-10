@@ -1,0 +1,34 @@
+---
+title: "Week-10-Notes"
+author: "Andrew Nalundasan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview video
+
++ upload Assignment 4 video to discussion thread for Assignment 5
++ Assignment 5: 
+
+    1. Comment on another video
+    2. Comment on another another video
+    3. Reply to someone that commented on mine
+    
+# Uber Readings
+
+
+
+## Uber reading 1
+
+
+
+## Uber reading 2
