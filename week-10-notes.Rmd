@@ -23,12 +23,142 @@ knitr::opts_chunk$set(echo = TRUE)
     2. Comment on another another video
     3. Reply to someone that commented on mine
     
-# Uber Readings
+# Team Arunima
 
 
 
-## Uber reading 1
+# Team Raymond
+
++ Classic Jordan being a strong leader
++ Action Phase
+
++ Jordan
+
+    + Specialized segmentation in retail: Walmart
+    + Niche demographic segmenting and advertisement (young, single, recently moved, preggers)
+    + Customer Impact analyzed via web scraping
+    + predictions of customer desires
+    + Ethical impacts
+
++ Mikayla
+
+    + Political segmentation
+    + Conservatives vs. Progressives
+    + Media being catered for different political segmentations
+        + Figuring out what's different among people
+        + Customized messaging to persuade non-voters to actually vote
+        + John Oliver on the left, Tucker Carlson on the right
+            + People getting famous for the political divide
+            + Falling prey to these information bubbles due to being flooded with media that we agree with
+
++ Raymond
+
+    + Peloton
+    + Market segmentation
+        + Psychographics
+        + Demographics
+        + **AWESOME** example of market segmentation
+    + Nice resolution on how Peloton is doing
+    
+
++ Tam
+    
+    + Amazon
+    + Storing all that data at a fraction of the cost using AWS
+    + Excellent breakdown of Amazon revenue streams via acquired companies
+    + Streamlining the purchasing process
+    + Having an estimated delivery date will drive customers to buy through Amazon
+    + Ethical constraints:
+        + Amazon is the closest thing to a monopoly without legally being considered a monopoly
+        + Tam droppin bombs!
+        
+One thing I learned and one constructive comment. 
+    
+I particularly enjoyed Mikayla's piece on political segmentation. I never thought of John Oliver and Tucker Carlson becoming famous thanks to the political divide of our country, but it's so true. We are all constantly blasted with information that we perceive to be true. Thanks to analytics, the types of articles and media that is shoved in our faces all the time is a function of what we're searching for, interacting with, uploading, and downloading from the internet. Our individual online experiences are becoming more and more tailored to our personal tastes, which includes our political opinions. I wish there was a setting that we could toggle to receive "default settings" to allow for equal representation between political parties in our news feeds. This way, people will be able to see both sides of the story and be given the chance to form their own opinion. This would be optimal compared to having extremely slanted and biased media spreading like wildfire.     
+    
+Not much I can think of for constructive comments. I think you all did excellent jobs with your case studies. You all chose excellent companies to consider and tied in impacts/results at the end of each case. I really liked that you tied in ethical impacts into each of your case studies.  
 
 
 
-## Uber reading 2
+# Team Brooke
+
++ Analytics helps to target the customers that actually purchase the product
+
+    + Decision Making Unit
+    + Decision making process
+    + hit the right people at the right time to get them to make a purchase decision
+
++ Claritas solution - market research professionals
++ SWOT analysis 
++ I liked how Sohrab tied in concepts from 5315 and statistics classes
++ I enjoyed hearing Brooke talk about her experiences as a marketing analyst
++ Convincing marketing managers that they have to move quickly
+
+    + Mental health company partnering with Simone Biles
+    + Must pay attention to current events to figure out how to make your brand market itself
+    + Must strike while the iron's hot
+
+One thing I learned and one constructive comment.
+
+Excellent presentation. Super interesting to hear Brooke speak about her experiences and knowledge of the industry through working as a marketing analyst. I agree with Danni, the example about Simone Biles was great. Judging from how the series of events went down during the Summer Olympics, I gotta give kudos to the company that partnered with her for doing so in a timely manner to help spread her message as well as bolster their brand. Through this example, I learned how marketing managers really need to be willing to move fast and strike while the iron is hot on ways to promote their brand. Communication with celebrities has become so transparent these days through the use of social media like Twitter and Instagram that it has become common to have celebrities being synonymous with brands. Examples of this could be Aaron Rogers/Patrick Mahomes for State Farm insurance or Ryan Reynolds for Mint Mobile/Aviation Gin. Ryan Reynolds actually trolled Peloton by hiring the actress from a sexist Peloton ad to make an Aviation Gin ad in response to the original Peloton ad (so meta, so Ryan Reynolds - https://www.youtube.com/watch?v=H2DoapmVFU8). Ryan Reynolds seemingly did this overnight, which solidifies Brooke's statement about marketing managers needing to be willing to move fast. 
+
+I think Danni is spot on with how to improve this presentation. The talking points were all excellent and the flow of the presentation had smooth transitions from each topic. I liked how Brooke made a few comments between each section to help build a dialogue and add color to the conversation. The quick summary at the end was a great way to wrap it up. Having visuals to help tell the story would make the presentation even more robust. Also from a consistency standpoint, Brooke and Wenshaui both had slides with bulleted talking points while Sohrab had his in paragraph form. I'd prefer to see the information broken out in bullets throughout the presentation but that's my personal opinion. Thanks for a great presentation!
+
+
+# Team Danielle
+
++ Action segment of marketing strategy
+
++ Product 
+
+    + App based products 
+    + Improved offerings by using NLP
+    
++ Promotion
+
+    + Impact on 4 areas
+    + Filtered email campaigns
+    + Gather data from social media campaigns for sentiment analysis
+    + Personalized interactions with the customer
+    
++ Place
+
+    + The more data you have on your customers, the better you can meet them where they are
+    + Instantaneous results thanks to Spark real-time streaming data
+    + Determining where to build a Zumiez store depending on where searches are coming from
+    + Digital business has many "places"
+        + brick and mortor
+        + app
+        + website
+        + supplier
+    
++ Price
+
+    + A bunch of stuff that Sean said
+    
+One thing I learned and one constructive comment. 
+
+Thanks for your share on the Action segment of the marketing strategy. Eric mentioned an excellent example of the use of analytics for Place when he described how Zumiez determines where to setup a brick and mortar store. The company can find which geography is receiving the most demand from customers and decide to open up shop there. I've always wondered why companies like Starbucks decide to open up shops that are a block away from each other. I'm sure Starbucks uses some sort of analytics that determines the best "Place" to maximize foot and car traffic through the coffee shop.
+
+I like how the team broke down the Action phase and spoke about the Four P's. From a visual perspective, some of the slides had some small text that was difficult for the audience to read. More spacing and bigger text size could help make the slides look even more polished.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
